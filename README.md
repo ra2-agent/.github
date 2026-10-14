@@ -5,6 +5,7 @@
 | 仓库 | 用途 |
 |---|---|
 | [.github](https://github.com/ra2-agent/.github) | 组织入口、治理和社区规范 |
+| [rust-ra2](https://github.com/ra2-agent/rust-ra2) | 社区引擎分支、Agent 接入、评测与性能优化 |
 | [agent-spec](https://github.com/ra2-agent/agent-spec) | Agent 清单、版本与评测协议 |
 | [agent-template](https://github.com/ra2-agent/agent-template) | 可复制的 Rust NPC 开发模板 |
 | [agents](https://github.com/ra2-agent/agents) | 社区 PR 提交的 Agent 源码和不可变版本 |
